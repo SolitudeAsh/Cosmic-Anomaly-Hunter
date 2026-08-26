@@ -154,8 +154,6 @@ The project tagline – *“Let AI search the universe for what humans might hav
 
 All source code, data preparation scripts, model training, and the app are organised in the following structure:
 ```
-Plaintext
-
 Cosmic hunter/
 
 ├── Data/
