@@ -351,9 +351,10 @@ tqdm
 
 **Installation Command:**
 
-Bash
+```Bash
 
 pip install -r requirements.txt
+```
 
 **Running the Full Pipeline**
 
