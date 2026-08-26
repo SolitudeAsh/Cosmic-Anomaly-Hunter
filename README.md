@@ -153,7 +153,7 @@ The project tagline – *“Let AI search the universe for what humans might hav
 **10. Project Repository & Files – Detailed Breakdown**
 
 All source code, data preparation scripts, model training, and the app are organised in the following structure:
-
+```
 Plaintext
 
 Cosmic hunter/
@@ -192,6 +192,7 @@ Cosmic hunter/
 
 └── requirements.txt                   # Python dependencies
 
+```
 **10.1 Data Files (CSVs)**
 
 **File**
