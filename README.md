@@ -380,4 +380,13 @@ python src/autoencoder.py
 ```Bash
 streamlit run src/app.py
 ```
+```Bash
+streamlit run src/app2.py
+```
+```Bash
+streamlit run src/app3.py
+```
+```Bash
+streamlit run src/app4.py
+```
 
