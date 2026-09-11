@@ -389,4 +389,10 @@ streamlit run src/app3.py
 ```Bash
 streamlit run src/app4.py
 ```
+```Bash
+streamlit run src/app5.py
+```
+```Bash
+streamlit run src/app6.py
+```
 
